@@ -23,7 +23,7 @@
 <a href="https://twitter.com/deveshrpawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deveshrpawar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devesh-pawar-b940b7200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh-pawar-b940b7200" height="30" width="40" /></a>
 <a href="https://instagram.com/itsokdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsokdev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/itsokdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itsokdev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UChOQUj6TRRsDl0ebMB5gqlA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itsokdev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
