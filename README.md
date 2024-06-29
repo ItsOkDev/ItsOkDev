@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsokdev&label=Profile%20views&color=0e75b6&style=flat" alt="itsokdev" /> </p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=itsokdev.itsokdev" />
-
 - 🔭 I’m currently working on **Projects**
 
 - 🌱 I’m currently learning **Py Coding, SQL, WebTech**
