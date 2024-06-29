@@ -1,4 +1,4 @@
-![logo](https://github.com/ItsOkDev/ItsOkDev/blob/main/Black%20Beige%20Elegant%20Business%20Tips%20Youtube%20Banner%20(640%20x%20320%20px).png)
+![logo](https://github.com/ItsOkDev/ItsOkDev/blob/main/Devesh%20Pawar%20-%20IG%20-%20ItsOkDev%20Github.png)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Devesh+Pawar!;+Welcome+to+Profile" />
 </h1>
@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsokdev&label=Profile%20views&color=0e75b6&style=flat" alt="itsokdev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/deveshrpawar" target="blank"><img src="https://img.shields.io/twitter/follow/deveshrpawar?logo=twitter&style=for-the-badge" alt="deveshrpawar" /></a> </p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=itsokdev.itsokdev" />
 
 - 🔭 I’m currently working on **Projects**
 
@@ -17,13 +17,6 @@
 - 💬 Ask me about **Python, Android... or anything [here](https://github.com/ItsOkDev/ItsOkDev/issues)**
 
 - 📫 How to reach me **pawardevesh03@gmail.com**
-
-</div>
-<div align="center"> 
-  <a href="mailto:pawardevesh03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-</div>
 
 - ⚡ Fun fact **I think I'm Funny and Talkative & Like to Explore the World**
 
