@@ -1,4 +1,4 @@
-![logo]((https://github.com/ItsOkDev/ItsOkDev/blob/main/Devesh%20Pawar%20-IG-%20ItsOkDev.png))(https://www.legentask.blogspot.com)
+![logo](https://github.com/ItsOkDev/ItsOkDev/blob/main/Black%20Beige%20Elegant%20Business%20Tips%20Youtube%20Banner%20(640%20x%20320%20px).png)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Devesh+Pawar!;+Welcome+to+Profile" />
 </h1>
