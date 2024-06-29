@@ -1,6 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.legentask.blogspot.com)
-<h1 align="center">Hi 👋, I'm Devesh Pawar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif))](https://www.legentask.blogspot.com)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Devesh+Pawar!;+Welcome+to+Profile" />
+</h1>
+<h3 align="center">A passionate full stack python developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
@@ -8,15 +10,22 @@
 
 <p align="left"> <a href="https://twitter.com/deveshrpawar" target="blank"><img src="https://img.shields.io/twitter/follow/deveshrpawar?logo=twitter&style=for-the-badge" alt="deveshrpawar" /></a> </p>
 
-- 🔭 I’m currently working on **Mini Projects**
+- 🔭 I’m currently working on **Projects**
 
-- 🌱 I’m currently learning **Python Coding**
+- 🌱 I’m currently learning **Py Coding, SQL, WebTech**
 
-- 💬 Ask me about **Python, Android**
+- 💬 Ask me about **Python, Android... or anything [here](https://github.com/ItsOkDev/ItsOkDev/issues)**
 
 - 📫 How to reach me **pawardevesh03@gmail.com**
 
-- ⚡ Fun fact **I think I'm Funny and Talkative**
+</div>
+<div align="center"> 
+  <a href="mailto:pawardevesh03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
+
+- ⚡ Fun fact **I think I'm Funny and Talkative & Like to Explore the World**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
