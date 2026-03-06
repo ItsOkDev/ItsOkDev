@@ -48,9 +48,10 @@
 
 ## Connect
 
-* 💼 LinkedIn – https://linkedin.com/in/itsokdev
-* 💻 GitHub – https://github.com/itsOkDev
-
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ItsOkDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsokdev)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsOkDev)
+[![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.com/s?i=digital-text&rh=p_27%3AIts%2BOk%2BDev&s=relevancerank&text=Its+Ok+Dev&ref=dp_byline_sr_ebooks_1)
 ---
 
 ## Philosophy
