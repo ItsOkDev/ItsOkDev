@@ -16,10 +16,10 @@
 
 ## Current Projects
 
-- 🤖 **[Disease Prediction System](https://colab.research.google.com/drive/1D2-0Aa2AyTvk1ofUEaCrATnYPF-lupVN?usp=sharing)** – Machine learning system that predicts diseases using symptoms dataset.
 - 📊 **[Smart-File-Automation-bot](https://github.com/ItsOkDev/smart-file-automation-bot)** – automation tool that automatically organizes files in the Downloads.
-- 🎤 **[Speech Emotion Recognition](https://github.com/ItsOkDev/Project-Speech-Emotion-Recognition)** – AI model that detects human emotions from voice.
 - 📋 **[Job Application Tracker](https://github.com/itsOkDev/job-application-tracker)** – Python CLI tool to track job applications and generate reports.
+- 🎤 **[Speech Emotion Recognition](https://github.com/ItsOkDev/Project-Speech-Emotion-Recognition)** – AI model that detects human emotions from voice.
+- 🤖 **[Disease Prediction System](https://colab.research.google.com/drive/1D2-0Aa2AyTvk1ofUEaCrATnYPF-lupVN?usp=sharing)** – Machine learning system that predicts diseases using symptoms dataset.
 - 📚 **[DSA Learning CLI](https://github.com/itsOkDev/dsa-learning-cli)** – Terminal tool to practice data structures and algorithms.
 
 ---
