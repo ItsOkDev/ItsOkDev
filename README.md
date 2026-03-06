@@ -27,7 +27,7 @@
 ## GitHub Activity
 
 <p align="center">
-<img width="96%" src="https://ghchart.rshah.org/itsOkDev"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsOkDev&theme=tokyo-night"/>
 </p>
 
 <p align="center">
