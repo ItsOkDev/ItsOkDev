@@ -26,14 +26,7 @@
 
 ## GitHub Activity
 
-<p align="center">
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsOkDev&theme=tokyo-night"/>
-</p>
-
-<p align="center">
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsOkDev&theme=github_dark"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsOkDev&theme=github_dark"/>
-</p>
+![GitHub Contributions](https://ghchart.rshah.org/itsOkDev)
 
 ---
 
